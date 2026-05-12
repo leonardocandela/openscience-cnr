@@ -1,3 +1,2 @@
-# openscience-cnr
-The website for the OpenScience@CNR project
+# Welcome to OpenScience@CNR
 ![Logo](OpenScience@CNRLogo.png)
